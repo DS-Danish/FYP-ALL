@@ -1,0 +1,12 @@
+[submodule "multi-clinic-backend"]
+	path = multi-clinic-backend
+	url = https://github.com/DS-Danish/multi-clinic-backend.git
+[submodule "multi-clinic-frontend"]
+	path = multi-clinic-frontend
+	url = https://github.com/DS-Danish/multi-clinic-frontend.git
+[submodule "Multi_clinic_Chatbot"]
+	path = Multi_clinic_Chatbot
+	url = https://github.com/Shiekhgithub/Multi_clinic_Chatbot.git
+[submodule "Multi_Clinic_App"]
+	path = Multi_Clinic_App
+	url = https://github.com/DS-Danish/Multi_Clinic_App.git
